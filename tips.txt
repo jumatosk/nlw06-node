@@ -1,0 +1,4 @@
+Ao receber uma requisição para cadastro de usuário, 
+a aplicação se comportará da seguinte forma:
+
+- server(recebe a requisição) -> controller -> service(Responsável por verificar e validar as regras) -> repositories -> BD
